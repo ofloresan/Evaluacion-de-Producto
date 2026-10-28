@@ -7,7 +7,7 @@ using namespace std;
 const int MAX_N = 100000;
 const int REPS = 30;                       // repeticiones por condicion
 const long long SEMILLA = 12345;           // semilla base
-const char* COMMIT_HASH = "pendiente";     
+const char* COMMIT_HASH = "2c4e2dc";     
 
 // ================= VARIABLES GLOBALES =================
 int A[MAX_N];                              // arreglo a ordenar
