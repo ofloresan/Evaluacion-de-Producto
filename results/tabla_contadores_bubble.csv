@@ -1,0 +1,11 @@
+patron,n,comparaciones,intercambios,profundidad
+aleatorio,1000,499500,249025,0
+aleatorio,10000,49995000,25015115,0
+ascendente,1000,499500,0,0
+ascendente,10000,49995000,0,0
+descendente,1000,499500,499500,0
+descendente,10000,49995000,49995000,0
+casi_ordenado,1000,499500,16656,0
+casi_ordenado,10000,49995000,1623316,0
+duplicados,1000,499500,233856,0
+duplicados,10000,49995000,23363148,0
